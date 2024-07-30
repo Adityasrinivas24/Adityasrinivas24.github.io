@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": ""
+  },
+  {
+    "objectID": "projects/arrhythmia.html",
+    "href": "projects/arrhythmia.html",
+    "title": "Arrhythmia Classification on edge devices",
+    "section": "",
+    "text": ""
+  },
+  {
+    "objectID": "projects/astrotinkerbot.html",
+    "href": "projects/astrotinkerbot.html",
+    "title": "AstroTinker Bot",
+    "section": "",
+    "text": ""
+  },
+  {
+    "objectID": "projects/riscv.html",
+    "href": "projects/riscv.html",
+    "title": "Single Cycle Risc V",
+    "section": "",
+    "text": ""
+  },
+  {
+    "objectID": "projects/switchbot.html",
+    "href": "projects/switchbot.html",
+    "title": "Switch Bot",
+    "section": "",
+    "text": ""
+  },
+  {
+    "objectID": "projects/autoplaylist.html",
+    "href": "projects/autoplaylist.html",
+    "title": "Auto Playlist Maker",
+    "section": "",
+    "text": ""
+  },
+  {
+    "objectID": "projects/pong-rl.html",
+    "href": "projects/pong-rl.html",
+    "title": "Pong RL",
+    "section": "",
+    "text": ""
+  }
+]

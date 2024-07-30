@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+      browser: true
+      port: 5500
+
+website:
+  title: "Aditya Srinivas K"
+  favicon: profile.png
+  twitter-card: true
+  page-footer: 
+    left: 
+    right: This website was made with <a href="https://quarto.org/">Quarto</a>.
+  navbar:
+    right:
+      # - notes.qmd
+      # - blog.qmd
+      - pubs.qmd
+      # - posts.qmd
+        # external: true
+format:
+  html:
+    # link-external-icon: true
+    # link-external-newwindow: true
+    from: markdown+emoji
+    theme: minty
+    css: styles.scss
+
+
+
